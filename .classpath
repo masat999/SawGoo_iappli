@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="var" path="STAR_CLASS_ZIP"/>
+	<classpathentry kind="var" path="STAR_STARCLASS_ZIP"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/dxlib_star1.0_101.jar"/>
+	<classpathentry kind="lib" path="lib/splib_star1.0_10.jar"/>
+	<classpathentry kind="lib" path="lib/utilib_star1.0_10.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
